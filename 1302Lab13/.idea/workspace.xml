@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37d1b0b6-fa2e-43c5-9658-c2388183a480" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/Connection.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/Connection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/HttpStatusException.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/HttpStatusException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/Jsoup.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/Jsoup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/SerializationException.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/SerializationException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/UncheckedIOException.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/UncheckedIOException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/UnsupportedMimeTypeException.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/UnsupportedMimeTypeException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/HtmlToPlainText.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/HtmlToPlainText.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/ListLinks.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/ListLinks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/Wikipedia.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/Wikipedia.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/package-info.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/examples/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/ChangeNotifyingArrayList.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/ChangeNotifyingArrayList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/DataUtil.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/DataUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/HttpConnection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/StringUtil.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/StringUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/Validate.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/Validate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/W3CDom.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/helper/W3CDom.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/internal/ConstrainableInputStream.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/internal/ConstrainableInputStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/internal/Normalizer.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/internal/Normalizer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/internal/package-info.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/internal/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Attribute.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Attribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Attributes.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Attributes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/BooleanAttribute.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/BooleanAttribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/CDataNode.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/CDataNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Comment.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Comment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/DataNode.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/DataNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Document.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Document.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/DocumentType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Element.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Element.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Entities.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Entities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/EntitiesData.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/EntitiesData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/FormElement.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/FormElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/LeafNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Node.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/Node.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/PseudoTextElement.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/PseudoTextElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/TextNode.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/TextNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/XmlDeclaration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/package-info.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/nodes/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/package-info.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/CharacterReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/ParseError.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/ParseError.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/ParseErrorList.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/ParseErrorList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/ParseSettings.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/ParseSettings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Parser.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Parser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Tag.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Tag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Token.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Token.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/TokenQueue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/Tokeniser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/TokeniserState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/TreeBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/XmlTreeBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/package-info.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/safety/Cleaner.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/safety/Cleaner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/safety/Whitelist.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/safety/Whitelist.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/safety/package-info.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/safety/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Collector.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Collector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/CombiningEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Elements.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Elements.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Evaluator.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Evaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/NodeFilter.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/NodeFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/NodeTraversor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/NodeVisitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/QueryParser.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/QueryParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Selector.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/Selector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/StructuralEvaluator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/package-info.java" afterPath="$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/select/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/MultiLocaleRule.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/MultiLocaleRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/TextUtil.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/TextUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/DataUtilTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/DataUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/HttpConnectionTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/HttpConnectionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/StringUtilTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/StringUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/W3CDomTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/helper/W3CDomTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/Benchmark.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/Benchmark.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/ConnectTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/ConnectTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/ParseTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/ParseTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/TestServer.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/TestServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/UrlConnectTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/UrlConnectTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/BaseServlet.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/BaseServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/Deflateservlet.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/Deflateservlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/EchoServlet.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/EchoServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/HelloServlet.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/HelloServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/SlowRider.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/integration/servlets/SlowRider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/internal/ConstrainableInputStreamTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/internal/ConstrainableInputStreamTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/AttributeTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/AttributeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/AttributesTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/AttributesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/BuildEntities.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/BuildEntities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/DocumentTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/DocumentTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/DocumentTypeTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/DocumentTypeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/ElementTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/ElementTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/EntitiesTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/EntitiesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/FormElementTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/FormElementTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/NodeTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/NodeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/TextNodeTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/nodes/TextNodeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/AttributeParseTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/AttributeParseTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/CharacterReaderTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/CharacterReaderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/HtmlParserTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/HtmlParserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/HtmlTreeBuilderStateTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/HtmlTreeBuilderStateTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/HtmlTreeBuilderTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/HtmlTreeBuilderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/ParserSettingsTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/ParserSettingsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TagTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TagTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TokenQueueTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TokenQueueTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TokeniserStateTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TokeniserStateTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TokeniserTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/TokeniserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/XmlTreeBuilderTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/parser/XmlTreeBuilderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/safety/CleanerTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/safety/CleanerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/CssTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/CssTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/ElementsTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/ElementsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/QueryParserTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/QueryParserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/SelectorTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/SelectorTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/TraversorTest.java" afterPath="$PROJECT_DIR$/src/jsoup/src/test/java/org/jsoup/select/TraversorTest.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyGoogleSearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/googlebridge/MyGoogleSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="73" column="15" lean-forward="false" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#1992#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/jsoup" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/textmining/ITextExtractor.java" />
+        <option value="$PROJECT_DIR$/src/jsoup/Jsoup.java" />
+        <option value="$PROJECT_DIR$/src/googlebridge/MyGoogleSearch.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="35" />
+    <option name="y" value="25" />
+    <option name="width" value="1316" />
+    <option name="height" value="687" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1302Lab13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1302Lab13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1302Lab13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1302Lab13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1302Lab13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1302Lab13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1302Lab13" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1302Lab13" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="googlebridge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AzimAhmadzadeh-lab_13_textmining-245e88aa877b" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="1302Lab13" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37d1b0b6-fa2e-43c5-9658-c2388183a480" name="Default" comment="" />
+      <created>1523639615824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523639615824</updated>
+      <workItem from="1523639621934" duration="174000" />
+      <workItem from="1523639814299" duration="1808000" />
+      <workItem from="1524176805991" duration="349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2331000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="35" y="25" width="1316" height="687" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24526814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285968" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/googlebridge/MyGoogleSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1992#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/googlebridge/MyGoogleSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="1" lean-forward="false" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#1992#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/textmining/ITextExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="102" column="46" lean-forward="false" selection-start-line="102" selection-start-column="46" selection-end-line="102" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsoup/nodes/CDataNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/select/NodeVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/helper/DataUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/nodes/Comment.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/safety/Whitelist.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/nodes/LeafNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/nodes/BooleanAttribute.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/Jsoup.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/select/Elements.java" />
+    <entry file="file://$PROJECT_DIR$/src/jsoup/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/googlebridge/MyGoogleSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="73" column="15" lean-forward="false" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#1992#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
